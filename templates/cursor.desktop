@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Cursor
+TryExec=/usr/local/bin/cursor
+Exec=/usr/local/bin/cursor
+Icon=/usr/share/icons/cursor/hicolor/64x64/apps/cursor.png
